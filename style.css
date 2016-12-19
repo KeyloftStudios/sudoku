@@ -1,0 +1,27 @@
+table, th, td {
+	border: 1px solid black;
+	font-size: 32px;
+}
+select {
+	font-size: 32px;
+}
+#left{
+	margin-left: 34%;
+}
+#middletop{
+	margin-top: -426px;
+	margin-left: 45%;
+}
+#middlemid{
+	margin-left: 45%;
+}
+#right{
+	margin-left: 56%;
+	margin-top: -426px;
+}
+#rightmid{
+	margin-left: 56%;
+}
+h1{
+	text-align: center;
+}
